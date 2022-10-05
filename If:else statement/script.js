@@ -21,6 +21,6 @@ if (legalAge) {
 //   console.log(`You can take this ride after ${yearsLeft} years`);
 // }
 
-// Both of the above codes are right to use,In the first code we are pointing at the variable FileSystemDirectoryHandle,Although in the 2nd we pointing at the value of variable.
+// Both of the above codes are right to use,In the first code we are pointing at the variable ,Although in the 2nd we pointing at the value of variable.
 
 // if statement would be valid if the code inside the parenthesis after the "if" is true otherwise the code inside the else would be executed.As in the above code the if statement is not right becoz the age is "7"  although the require age is "8 or greater "so the code inside the else statement would be executed.
